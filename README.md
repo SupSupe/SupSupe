@@ -1,5 +1,5 @@
 
-# Kinetic27&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/sans.gif" width="30" height="30%"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
+# Kinetic27&nbsp;<img src="https://github.com/supsupe/blob/master/sans.gif" width="30" height="30%"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kinetic's%20Github&fontSize=40)
 
@@ -7,9 +7,9 @@
 
 <p>
   <em>
-    ☕ 마신 <b>커피<b> 만큼 코드를 뽑아냅니다. 👨‍💻 <br>
-    현재 가천대학교 인공지능학과🤖에 재학중입니다 <br>
-    <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. 
+    ☕ 마신 <b>개발한<b> 만큼 코드를 뽑아냅니다. 👨‍💻 <br>
+    현재 파이브엠 개발자로 일하고 있습니다. <br>
+    <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 있습니다. 
   </em>  
 </p>
 
