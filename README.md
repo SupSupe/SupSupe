@@ -1,2 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supsupe)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supsupe&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Python,C)](https://github.com/kijepark)
