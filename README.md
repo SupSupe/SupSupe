@@ -14,21 +14,14 @@
     
 ### Online Judge 💻
 
-* BOJ: [supsupe](http://icpc.me/kinetic27)
+* BOT: [supsupe](http://icpc.me/kinetic27)
   * solvedac: [supsupe](https://solved.ac/profile/supsupe)
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=supsupe)](https://solved.ac/supsupe)
 
 ### Contacts 📫
 
-* Github Repo Issue 
-* Twitter DM: @dev_kinetic
-* Email: aheui@kakao.com
-
-  <!--<div align=center>-->
-  
-[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://supsupe.github.io/)](https://supsupe.github.io/) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/supsupe?label=Follow%20me&style=social)](https://twitter.com/dev_kinetic)
+* Email: anselmo081499@gmail.com
 
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&se
